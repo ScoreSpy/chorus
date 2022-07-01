@@ -98,9 +98,3 @@ Query parameters
     * Else, it will most likely be a direct download link
   * `directLinks` (experimental): These links should allow you to directly trigger a download if you access/wget them.
   * `sources` (Array): Where it was pulled from
-
-## Roadmap and random ideas
-
-(you can definitely help if you want to!)
-
-[My roadmap is actually getting considerable enough for it to warrant its own GitHub project page. Check it out!](https://github.com/Paturages/chorus/projects/1)
